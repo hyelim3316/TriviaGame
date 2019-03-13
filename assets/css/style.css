@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0;
+  }
+  
+  body {
+      background-image: url("../images/background.jpeg");
+      text-align: center;
+  }
+
+  html,body {
+  height: 100%;
+}
